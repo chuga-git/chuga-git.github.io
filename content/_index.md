@@ -2,8 +2,14 @@
 title= "Website?"
 template = "homepage.html"
 +++
+![image](mothswirlie.gif)
 
-![image](/static/mothcube.gif)![image](/static/mothcube.gif)![image](/static/mothcube.gif)
-![image](/static/moff_roach_squish_fast.gif)![image](/static/mothswirlie.gif){height=200px}![image](/static/moff_roach_squish_fast.gif)
-![image](/static/mothcube.gif)![image](/static/mothcube.gif)![image](/static/mothcube.gif)
-![image](/static/moth.png)
+![image](mothcube.gif)![image](mothcube.gif)![image](mothcube.gif)
+
+![image](moth.png)
+
+![image](moff_roach_squish_fast.gif)![image](moff_roach_squish_fast.gif)![image](moff_roach_squish_fast.gif)
+
+
+
+![image](mothcube.gif)![image](mothcube.gif)![image](mothcube.gif)
